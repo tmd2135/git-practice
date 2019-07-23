@@ -3,3 +3,6 @@ def func():
 
 def func1():
     print('Hey')
+
+def error1():
+    print('error1')
